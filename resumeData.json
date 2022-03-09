@@ -13,32 +13,22 @@
       "state": "(Attica)",
       "zip": "(16346)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://antonioslampros.github.io/",
+    "resumedownload": "https://drive.google.com/file/d/1D1WfwSH1qNDDi6iPt-mJ1i16aba5MQzA/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/profile.php?id=100014703762099",
+        "url": "https://www.facebook.com/antony.lampros/",
         "className": "fa fa-facebook"
       },
       {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/panagiotis-lampros-a7859a22a/",
+        "url": "https://www.linkedin.com/in/antonios-lampros-8742a8122/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/Panos-1993",
+        "url": "https://github.com/antonioslampros",
         "className": "fa fa-github"
       }
     ]
@@ -47,35 +37,53 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Patras",
-        "degree": "Bachelors Degree in accounting & finance",
-        "graduated": "April 2019",
-        "description": "Holder of B' class license from the Economic chamber of Greece"
+        "school": "University of the Aegean",
+        "degree": "Bsc of Science, Msc Information and Communication Systems.",
+        "graduated": "Expected graduation 2022 ",
+        "description": "Since the beginning of my academic career, I have been interested in business intelligence and E-Governance as well as open-source applications. I am a member of the WWTP/LAC branch of the U.S.A. and in the 3rd year I was a member of a team for the development of a mobile application on behalf of EOSS. The biggest achievement, however, is in E-Governance, where I have participated as a speaker at OpenGov in June 2015. "
       }
     
     ],
     "work": [
       {
-        "company": "Arosal Audit Ltd",
-        "title": "Junior Auditor",
-        "years": "September 2020 - April 2021",
-        "description": "Junior auditor tasked with auditing SME's from the start of the audit with the testing of the trial balance, locating invoices and finally drafting the financial statements according with IFRS for the senior auditor in charge. "
+        "company": "IID S.A.",
+        "title": "Full Stack Developer",
+        "years": "July 2021 - March 2022",
+        "description": "My key responsibilities where the development and distribution of applications and automations for the production department of the company. Furthermore, I became familiar with Abby technologies and stack."
       },
       {
-        "company": "National Bank of Greece",
-        "title": "Accounting and finance intern",
-        "years": "September 2016 - April 2017",
-        "description": "Internship at the Dealing room sector, tasked with maintaining and updating special accounts for any sales to or from the dealing room."
+        "company": "E Secretery",
+        "title": "Full Stack Developer",
+        "years": "October 2020 - March 2021",
+        "description": "My responsibilities were the development and maintenance of an ERP & CRM system for insurance office’s."
+      },
+      {
+        "company": "Business Cloud",
+        "title": "Full Stack Developer",
+        "years": "March 2019 - January 2020",
+        "description": "My responsibilities were to develop a CRM for internal use and later for sale. https://www.officecloud.gr/"
+      },
+      {
+        "company": "Exclusive Insurances",
+        "title": "IT Assistant",
+        "years": "August 2017 - January 2019",
+        "description": "My responsibilities were to assist in the smooth operation of the company's infrastructure on the internet and the creation of a platform for searching for health insurance online."
+      },
+      {
+        "company": "OINOVATION",
+        "title": "Web Developer",
+        "years": "April 2016 - February 2017",
+        "description": "My responsibilities were the management and optimization of the website below. https://chimerawines.com/"
       }
     ],
     "skills": [
       {
         "name": "Git",
-        "level": "25%"
+        "level": "85%"
       },
       {
-        "name": "Illustrator",
-        "level": "30%"
+        "name": "DevOps",
+        "level": "65%"
       },
       {
         "name": "ReactJs",
@@ -83,19 +91,19 @@
       },
       {
         "name": "CSS",
-        "level": "60%"
+        "level": "75%"
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "90%"
       },
       {
         "name": "NodeJs",
-        "level": "35%"
+        "level": "70%"
       },
       {
         "name": "MongoDB",
-        "level": "20%"
+        "level": "55%"
       }
     ]
   },
