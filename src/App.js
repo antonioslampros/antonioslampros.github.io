@@ -6,9 +6,7 @@ import Header from './Components/Header';
 import Footer from './Components/Footer';
 import About from './Components/About';
 import Resume from './Components/Resume';
-import Contact from './Components/Contact';
-import Testimonials from './Components/Testimonials';
-import Portfolio from './Components/Portfolio';
+
 import Particles from "react-tsparticles";
 class App extends Component {
 
@@ -232,7 +230,7 @@ class App extends Component {
             }
           },
           "color": {
-            "value": "#ffffff",
+            "value": "#b8860b",
             "animation": {
               "h": {
                 "count": 0,
@@ -305,7 +303,7 @@ class App extends Component {
           "links": {
             "blink": false,
             "color": {
-              "value": "#ffffff"
+              "value": "#b8860b"
             },
             "consent": false,
             "distance": 30,
@@ -315,7 +313,7 @@ class App extends Component {
             "shadow": {
               "blur": 5,
               "color": {
-                "value": "#00ff00"
+                "value": "#b8860b"
               },
               "enable": false
             },
@@ -381,7 +379,7 @@ class App extends Component {
               "enable": false,
               "length": 10,
               "fillColor": {
-                "value": "#000000"
+                "value": "#b8860b"
               }
             },
             "vibrate": false,
@@ -476,7 +474,7 @@ class App extends Component {
           "shadow": {
             "blur": 0,
             "color": {
-              "value": "#000000"
+              "value": "#b8860b"
             },
             "enable": false,
             "offset": {
@@ -524,12 +522,12 @@ class App extends Component {
           "twinkle": {
             "lines": {
               "enable": false,
-              "frequency": 0.05,
+              "frequency": 0.08,
               "opacity": 1
             },
             "particles": {
               "enable": false,
-              "frequency": 0.05,
+              "frequency": 0.08,
               "opacity": 1
             }
           },
@@ -560,10 +558,10 @@ class App extends Component {
             "enable": true,
             "stroke": {
               "color": {
-                "value": "rgba(255,255,255,0.2)"
+                "value": "rgba(184, 134, 11)"
               },
               "width": 0.5,
-              "opacity": 0.2
+              "opacity": 0.3
             }
           },
           "enable": true,
@@ -574,7 +572,7 @@ class App extends Component {
             "radius": 10,
             "type": "path"
           },
-          "scale": 0.9,
+          "scale": 1.2,
           "type": "inline",
           "url": "https://particles.js.org/images/smalldeer.svg"
         }

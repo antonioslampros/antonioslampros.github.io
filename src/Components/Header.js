@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Particles from "react-tsparticles";
+
 
 class Header extends Component {
   render() {
